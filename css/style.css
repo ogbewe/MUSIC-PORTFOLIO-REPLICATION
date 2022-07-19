@@ -120,3 +120,83 @@ color: white;
     background-color: #F43757;
     color: white;
 }
+
+.musicwrapper{
+    height: 520px;
+    background-color: white;
+    text-align: center;
+    padding:30px 20px 40px 20px;
+}
+.musicwrapper hr {
+    width: 2%;
+    margin-left: 47%;
+    height: 1px;
+    background-color: black;
+}
+
+.heading{
+    line-height: 4px;
+}
+
+.music{
+    float: left;
+    width: 30%;
+    padding:40px 20px 10px 20px;
+}
+
+.concertwrapper{
+    height: 520px;
+    background-color:#E5E5E5 ;
+    text-align: center;
+    padding:30px 20px 40px 20px;
+}
+
+.concert{
+    float: left;
+    width: 30%;
+    padding:40px 20px 10px 20px;
+}
+
+.booking{
+    height: 520px;
+    align-items: center;
+    background-color: white;
+}
+
+.booking img{
+    position: absolute;
+    float: left;
+    margin: 30px;
+    height: 400px;
+    width: auto;
+}
+.bookingtext{
+        position: absolute;
+        left: 45%;
+        right: 10%;
+        padding-top: 120px;
+        line-height: 20px;
+}
+
+.bookingtext button{
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 40px;
+    background-color: #F43757;
+    color: white;
+}
+
+.opinionwrapper{
+    height: 500px;
+    margin: 0;
+    text-align: center;
+    background-color: black;
+}
+
+.opinions{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    color: white;
+}
